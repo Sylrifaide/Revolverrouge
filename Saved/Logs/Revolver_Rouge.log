@@ -287,4 +287,933 @@ LogInit: Object subsystem initialized
 [2016.11.12-00.58.09:375][499]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
 [2016.11.12-00.58.14:394][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2016.11.12-00.58.16:190][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2016.11.12-
+[2016.11.12-00.58.16:904][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.12-00.58.17:534][ 32]LogEditorViewport: Clicking on Actor (LMB): enemy_C (enemy2)
+[2016.11.12-00.58.22:012][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mainlevel" FILE="../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Levels/Mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.12-00.58.22:071][543]LogSavePackage: Save=33.24ms
+[2016.11.12-00.58.22:071][543]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Mainlevel873371AA47805C95FC2D05A203FFE0C2.tmp' to '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Levels/Mainlevel.umap'
+[2016.11.12-00.58.22:079][543]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Levels/Mainlevel.umap
+[2016.11.12-00.58.22:097][543]LogFileHelpers: Saving map 'Mainlevel' took 0.126
+[2016.11.12-00.58.24:596][797]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 112 classes and 0 folders.
+[2016.11.12-00.58.36:584][815]LogSourceControl: Writed 'C:/Users/dollon/Documents/GitHub/Revolverrouge/Saved/Diff/temp-cef79acc657a4a4828de1d7f880c42bef8722661-Mainlevel.umap' (1069170o)
+[2016.11.12-00.58.36:612][815]LogAIModule: Creating AISystem for world temp-cef79acc657a4a4828de1d7f880c42bef8722661-Mainlevel
+[2016.11.12-00.58.53:194][759]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2016.11.12-00.59.00:434][759]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.11.12-00.59.00:476][759]SourceControl: Info [master 211b99d] updatedmap
+[2016.11.12-00.59.00:476][759]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2016.11.12-00.59.00:482][759]SourceControl: Info Commited [master 211b99d] updatedmap.
+[2016.11.12-01.02.40:069][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.02.40:070][400]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:02:40 am)
+[2016.11.12-01.02.40:070][400]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.02.40:075][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005166s)
+[2016.11.12-01.02.40:076][400]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.02.40:076][400]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2016.11.12-01.02.40:076][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.006888s)
+[2016.11.12-01.02.40:109][400]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.02.40:119][400]LogInit: FAudioDevice initialized.
+[2016.11.12-01.02.40:161][400]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.02.40:164][400]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.02.40
+[2016.11.12-01.02.40:165][400]LogWorld: Bringing up level for play took: 0.002853
+[2016.11.12-01.02.40:167][400]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2016.11.12-01.02.40:167][400]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.02.40:167][400]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.02.40:167][400]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.02.40:169][400]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.02.40:169][400]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel 0.001
+[2016.11.12-01.02.42:236][643]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.02.42:636][691]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.03.23:868][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.03.23:868][742]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:03:23 am)
+[2016.11.12-01.03.23:868][742]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.03.23:878][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009793s)
+[2016.11.12-01.03.23:879][742]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.03.23:880][742]LogPlayLevel: PIE: World Init took: (0.002148s)
+[2016.11.12-01.03.23:881][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.012727s)
+[2016.11.12-01.03.23:912][742]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.03.23:922][742]LogInit: FAudioDevice initialized.
+[2016.11.12-01.03.23:954][742]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.03.23:957][742]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.03.23
+[2016.11.12-01.03.23:958][742]LogWorld: Bringing up level for play took: 0.002760
+[2016.11.12-01.03.23:958][742]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.03.23:958][742]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.03.23:958][742]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.03.23:960][742]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.03.23:960][742]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel -0.209
+[2016.11.12-01.04.05:652][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.04.05:652][672]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:04:05 am)
+[2016.11.12-01.04.05:652][672]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.04.05:657][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004691s)
+[2016.11.12-01.04.05:658][672]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.04.05:658][672]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2016.11.12-01.04.05:658][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.005700s)
+[2016.11.12-01.04.05:678][672]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.04.05:688][672]LogInit: FAudioDevice initialized.
+[2016.11.12-01.04.05:719][672]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.04.05:722][672]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.04.05
+[2016.11.12-01.04.05:723][672]LogWorld: Bringing up level for play took: 0.003010
+[2016.11.12-01.04.05:723][672]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.04.05:723][672]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.04.05:723][672]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.04.05:725][672]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.04.05:725][672]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel -0.444
+[2016.11.12-01.04.34:983][719]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.04.35:207][719]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.04.36:475][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.04.36:476][780]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:04:36 am)
+[2016.11.12-01.04.36:476][780]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.04.36:482][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005899s)
+[2016.11.12-01.04.36:482][780]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.04.36:483][780]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2016.11.12-01.04.36:483][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.007116s)
+[2016.11.12-01.04.36:507][780]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.04.36:517][780]LogInit: FAudioDevice initialized.
+[2016.11.12-01.04.36:546][780]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.04.36:549][780]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.04.36
+[2016.11.12-01.04.36:550][780]LogWorld: Bringing up level for play took: 0.003199
+[2016.11.12-01.04.36:551][780]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.04.36:551][780]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.04.36:551][780]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.04.36:552][780]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.04.36:552][780]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel 0.384
+[2016.11.12-01.05.27:951][746]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.05.28:166][746]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.05.29:362][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.05.29:362][803]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:05:29 am)
+[2016.11.12-01.05.29:362][803]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.05.29:367][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005277s)
+[2016.11.12-01.05.29:368][803]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.05.29:368][803]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2016.11.12-01.05.29:368][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.006352s)
+[2016.11.12-01.05.29:393][803]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.05.29:403][803]LogInit: FAudioDevice initialized.
+[2016.11.12-01.05.29:437][803]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.05.29:440][803]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.05.29
+[2016.11.12-01.05.29:441][803]LogWorld: Bringing up level for play took: 0.002766
+[2016.11.12-01.05.29:442][803]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.05.29:442][803]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.05.29:442][803]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.05.29:443][803]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.05.29:443][803]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel -0.725
+[2016.11.12-01.05.57:625][112]LogRenderer: Reallocating scene render targets to support 1228x696 (Frame:22284).
+[2016.11.12-01.06.11:076][995]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.06.11:293][995]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.06.43:660][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownCharacter" FILE="../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2016.11.12-01.06.43:739][194]LogSavePackage: Save=67.77ms
+[2016.11.12-01.06.43:739][194]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/TopDownCharacter19DD2F924D405686CAD9B988FA8AE2AF.tmp' to '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/TopDownCharacter.uasset'
+[2016.11.12-01.06.43:747][194]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/TopDownCharacter.uasset
+[2016.11.12-01.08.39:531][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.08.39:531][133]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:08:39 am)
+[2016.11.12-01.08.39:531][133]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.08.39:536][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005539s)
+[2016.11.12-01.08.39:537][133]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.08.39:538][133]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2016.11.12-01.08.39:538][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.006951s)
+[2016.11.12-01.08.39:562][133]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.08.39:572][133]LogInit: FAudioDevice initialized.
+[2016.11.12-01.08.39:601][133]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.08.39:605][133]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.08.39
+[2016.11.12-01.08.39:606][133]LogWorld: Bringing up level for play took: 0.003766
+[2016.11.12-01.08.39:607][133]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.08.39:607][133]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.08.39:607][133]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.08.39:609][133]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.08.39:609][133]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel -0.559
+[2016.11.12-01.08.53:928][307]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.08.54:135][307]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.08.55:413][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.08.55:413][364]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:08:55 am)
+[2016.11.12-01.08.55:414][364]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.08.55:418][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004413s)
+[2016.11.12-01.08.55:419][364]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.08.55:419][364]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2016.11.12-01.08.55:419][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.005635s)
+[2016.11.12-01.08.55:444][364]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.08.55:454][364]LogInit: FAudioDevice initialized.
+[2016.11.12-01.08.55:487][364]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.08.55:490][364]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.08.55
+[2016.11.12-01.08.55:491][364]LogWorld: Bringing up level for play took: 0.003095
+[2016.11.12-01.08.55:492][364]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.08.55:492][364]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.08.55:492][364]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.08.55:493][364]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.08.55:493][364]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel -0.675
+[2016.11.12-01.09.01:731][104]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-168.564 Y=-16.982 Z=70.398] for [bullet_basic_C]
+[2016.11.12-01.09.01:939][129]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.09.05:838][596]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.09.06:073][624]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.09.10:459][148]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.09.10:660][172]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.09.10:663][172]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:672][173]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:679][174]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:688][175]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:696][176]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:704][177]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:713][178]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:721][179]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:729][180]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:738][181]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:746][182]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:754][183]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:763][184]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:771][185]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:780][186]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:787][187]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.10:796][188]LogScript:Warning: Attempted to access TopDownCharacter_C_0 via property myCharacter, but TopDownCharacter_C_0 is pending kill
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_0
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:658][411]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:666][412]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:674][413]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:682][414]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:691][415]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:699][416]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:707][417]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:716][418]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:724][419]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:732][420]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:741][421]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:749][422]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:757][423]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:766][424]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:774][425]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:783][426]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.12:791][427]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_1
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.14:366][616]LogBlueprintUserMessages: [TopDownCharacter_C_1] DamageDone.Player
+[2016.11.12-01.09.16:954][926]LogBlueprintUserMessages: [TopDownCharacter_C_1] DamageDone.Player
+[2016.11.12-01.09.18:344][ 92]LogBlueprintUserMessages: [TopDownCharacter_C_1] DamageDone.Player
+[2016.11.12-01.09.18:837][151]LogBlueprintUserMessages: [TopDownCharacter_C_1] DamageDone.Player
+[2016.11.12-01.09.20:423][341]LogBlueprintUserMessages: [TopDownCharacter_C_1] DamageDone.Player
+[2016.11.12-01.09.22:422][580]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:431][581]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:440][582]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:449][583]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:457][584]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:466][585]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:475][586]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:483][587]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:492][588]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:501][589]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:509][590]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:518][591]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:527][592]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:536][593]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:544][594]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:553][595]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.22:561][596]LogScript:Warning: Accessed None trying to read property myCharacter
+	mainPlayerHud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.mainPlayerHud_C_2
+	Function /Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:GetScore:003D
+[2016.11.12-01.09.57:896][126]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Mainlevel' took 0.013
+[2016.11.12-01.09.57:900][126]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2016.11.12-01.09.57:900][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TopDownCharacter]
+[2016.11.12-01.09.57:970][126]LogSavePackage: Save=62.45ms
+[2016.11.12-01.09.57:970][126]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/TopDownCharacter_Auto141807FCB4F412B509DAC4DA6AE8B7FEA.tmp' to '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Autosaves/Game/Blueprints/TopDownCharacter_Auto1.uasset'
+[2016.11.12-01.09.57:974][126]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Autosaves/Game/Blueprints/TopDownCharacter_Auto1.uasset
+[2016.11.12-01.09.57:974][126]LogFileHelpers: Auto-saving content packages took 0.078
+[2016.11.12-01.11.09:278][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.11.09:279][787]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:11:09 am)
+[2016.11.12-01.11.09:279][787]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.11.09:284][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005160s)
+[2016.11.12-01.11.09:285][787]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.11.09:285][787]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2016.11.12-01.11.09:285][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.006349s)
+[2016.11.12-01.11.09:308][787]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.11.09:319][787]LogInit: FAudioDevice initialized.
+[2016.11.12-01.11.09:353][787]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.11.09:357][787]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.11.09
+[2016.11.12-01.11.09:358][787]LogWorld: Bringing up level for play took: 0.003436
+[2016.11.12-01.11.09:359][787]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.11.09:359][787]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.11.09:359][787]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.11.09:361][787]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.11.09:361][787]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel -0.808
+[2016.11.12-01.11.44:688][ 41]LogEditorTransaction: Undo Move Node
+[2016.11.12-01.14.23:643][565]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.14.23:920][565]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.14.25:192][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.14.25:192][627]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:14:25 am)
+[2016.11.12-01.14.25:193][627]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.14.25:199][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006014s)
+[2016.11.12-01.14.25:199][627]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.14.25:200][627]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2016.11.12-01.14.25:200][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.007261s)
+[2016.11.12-01.14.25:226][627]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.14.25:237][627]LogInit: FAudioDevice initialized.
+[2016.11.12-01.14.25:268][627]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.14.25:272][627]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.14.25
+[2016.11.12-01.14.25:273][627]LogWorld: Bringing up level for play took: 0.003359
+[2016.11.12-01.14.25:273][627]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.14.25:273][627]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.14.25:273][627]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.14.25:275][627]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.14.25:275][627]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel -0.894
+[2016.11.12-01.14.29:084][ 15]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.14.29:142][ 21]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.12:753][248]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.16.13:030][248]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.16.13:482][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownCharacter" FILE="../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2016.11.12-01.16.13:558][260]LogSavePackage: Save=64.87ms
+[2016.11.12-01.16.13:558][260]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/TopDownCharacter29F148D5423C6B5E9E8B8098CD2B78A0.tmp' to '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/TopDownCharacter.uasset'
+[2016.11.12-01.16.13:565][260]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/TopDownCharacter.uasset
+[2016.11.12-01.16.14:583][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.16.14:583][314]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:16:14 am)
+[2016.11.12-01.16.14:584][314]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.16.14:590][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006257s)
+[2016.11.12-01.16.14:591][314]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.16.14:591][314]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2016.11.12-01.16.14:591][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.007617s)
+[2016.11.12-01.16.14:616][314]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.16.14:627][314]LogInit: FAudioDevice initialized.
+[2016.11.12-01.16.14:659][314]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.16.14:662][314]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.16.14
+[2016.11.12-01.16.14:663][314]LogWorld: Bringing up level for play took: 0.003005
+[2016.11.12-01.16.14:663][314]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.16.14:663][314]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.16.14:663][314]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.16.14:665][314]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.16.14:665][314]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel 0.496
+[2016.11.12-01.16.17:220][606]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.17:228][607]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:002][818]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:011][819]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:019][820]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:027][821]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:036][822]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:046][823]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:054][824]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:063][825]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:071][826]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:080][827]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:088][828]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:096][829]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:105][830]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:114][831]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:122][832]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:131][833]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:139][834]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:148][835]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:156][836]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:165][837]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:174][838]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:183][839]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:191][840]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:200][841]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:208][842]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:217][843]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:225][844]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:234][845]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:242][846]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:251][847]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:259][848]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:268][849]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:276][850]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:285][851]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:294][852]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:303][853]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:311][854]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:320][855]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:329][856]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:339][857]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:347][858]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.19:356][859]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:173][955]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:191][957]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:199][958]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:208][959]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:217][960]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:226][961]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:235][962]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:245][963]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:253][964]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:262][965]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:270][966]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:279][967]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:289][968]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:298][969]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:307][970]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:315][971]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:324][972]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:333][973]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:341][974]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:350][975]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:359][976]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:367][977]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:376][978]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:385][979]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:394][980]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:402][981]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:411][982]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:419][983]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:428][984]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:436][985]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:445][986]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:454][987]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:462][988]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:471][989]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:480][990]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:488][991]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:497][992]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:505][993]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:514][994]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:523][995]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:531][996]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:540][997]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:549][998]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:557][999]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:566][  0]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:575][  1]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:583][  2]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:592][  3]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:601][  4]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:609][  5]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:618][  6]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:627][  7]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:635][  8]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:644][  9]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:652][ 10]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:661][ 11]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:669][ 12]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:678][ 13]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:686][ 14]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:695][ 15]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:704][ 16]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:713][ 17]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:721][ 18]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:729][ 19]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:738][ 20]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:747][ 21]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:755][ 22]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:764][ 23]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:773][ 24]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:782][ 25]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:790][ 26]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:799][ 27]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:807][ 28]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:816][ 29]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:825][ 30]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:834][ 31]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:843][ 32]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:851][ 33]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:860][ 34]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:868][ 35]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:876][ 36]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:885][ 37]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:894][ 38]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:903][ 39]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:912][ 40]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:920][ 41]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:929][ 42]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:937][ 43]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:946][ 44]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:956][ 45]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:964][ 46]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:973][ 47]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:982][ 48]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:991][ 49]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.20:999][ 50]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:008][ 51]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:016][ 52]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:025][ 53]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:034][ 54]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:043][ 55]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:051][ 56]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:060][ 57]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:068][ 58]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:077][ 59]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:085][ 60]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:094][ 61]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:104][ 62]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:113][ 63]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:122][ 64]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:130][ 65]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:138][ 66]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:147][ 67]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:155][ 68]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:164][ 69]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:173][ 70]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:182][ 71]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:190][ 72]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:199][ 73]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:207][ 74]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:216][ 75]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:225][ 76]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:234][ 77]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:242][ 78]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:251][ 79]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:259][ 80]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:268][ 81]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:277][ 82]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:286][ 83]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:294][ 84]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:303][ 85]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:312][ 86]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:320][ 87]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:329][ 88]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:338][ 89]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:346][ 90]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:355][ 91]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:364][ 92]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:372][ 93]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:381][ 94]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:390][ 95]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:398][ 96]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:415][ 98]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.21:713][133]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:723][251]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:731][252]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:739][253]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:757][255]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:765][256]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:774][257]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:782][258]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:791][259]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:799][260]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:808][261]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:816][262]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:825][263]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:834][264]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:843][265]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:853][266]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:862][267]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:871][268]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:879][269]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:887][270]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:896][271]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:905][272]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:913][273]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:922][274]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:931][275]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:939][276]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:948][277]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:956][278]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:965][279]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:974][280]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:983][281]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.22:992][282]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.23:000][283]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.23:009][284]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.23:017][285]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.23:026][286]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.23:035][287]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.23:044][288]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.23:052][289]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.23:061][290]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.23:070][291]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.23:078][292]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.23:087][293]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:257][431]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:266][432]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:274][433]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:283][434]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:292][435]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:300][436]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:309][437]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:317][438]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:326][439]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:335][440]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:344][441]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:352][442]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:361][443]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:369][444]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:378][445]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:386][446]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:395][447]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:404][448]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:412][449]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:422][450]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:430][451]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:439][452]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:448][453]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.24:456][454]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.30:170][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.16.30:170][995]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:16:30 am)
+[2016.11.12-01.16.30:170][995]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.16.30:175][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005210s)
+[2016.11.12-01.16.30:176][995]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.16.30:176][995]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2016.11.12-01.16.30:176][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.006389s)
+[2016.11.12-01.16.30:199][995]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.16.30:209][995]LogInit: FAudioDevice initialized.
+[2016.11.12-01.16.30:241][995]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.16.30:245][995]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.16.30
+[2016.11.12-01.16.30:245][995]LogWorld: Bringing up level for play took: 0.003037
+[2016.11.12-01.16.30:246][995]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.16.30:246][995]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.16.30:246][995]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.16.30:248][995]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.16.30:248][995]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel 0.08
+[2016.11.12-01.16.34:831][528]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:857][531]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:865][532]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:874][533]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:882][534]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:891][535]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:900][536]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:908][537]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:917][538]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:926][539]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:934][540]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:942][541]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:951][542]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:959][543]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:968][544]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:977][545]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:986][546]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.34:995][547]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.35:004][548]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.35:014][549]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.35:022][550]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.35:031][551]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.35:039][552]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.35:048][553]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.35:057][554]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.35:066][555]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.35:074][556]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.16.35:083][557]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.17.22:723][ 63]LogEditorTransaction: Undo Add Node
+[2016.11.12-01.20.16:130][845]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.20.16:355][845]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.22.29:870][662]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Mainlevel' took 0.025
+[2016.11.12-01.22.29:874][662]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2016.11.12-01.22.29:875][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TopDownCharacter]
+[2016.11.12-01.22.29:963][662]LogSavePackage: Save=75.20ms
+[2016.11.12-01.22.29:963][662]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/TopDownCharacter_Auto20ABF3781452C6F7AA32CD8B71DB04C0D.tmp' to '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Autosaves/Game/Blueprints/TopDownCharacter_Auto2.uasset'
+[2016.11.12-01.22.29:967][662]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Autosaves/Game/Blueprints/TopDownCharacter_Auto2.uasset
+[2016.11.12-01.22.29:973][662]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Ui/mainPlayerHud] ([1] browsable assets)...
+[2016.11.12-01.22.29:973][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Ui/mainPlayerHud]
+[2016.11.12-01.22.30:030][662]LogSavePackage: Save=46.45ms
+[2016.11.12-01.22.30:030][662]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/mainPlayerHud_Auto21D37A9E44B0DDF875173FD8DC9183517.tmp' to '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Autosaves/Game/Blueprints/Ui/mainPlayerHud_Auto2.uasset'
+[2016.11.12-01.22.30:034][662]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Autosaves/Game/Blueprints/Ui/mainPlayerHud_Auto2.uasset
+[2016.11.12-01.22.30:034][662]LogFileHelpers: Auto-saving content packages took 0.164
+[2016.11.12-01.22.38:927][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownCharacter" FILE="../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2016.11.12-01.22.38:998][114]LogSavePackage: Save=63.24ms
+[2016.11.12-01.22.38:998][114]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/TopDownCharacter89A151884F276BE795E72C95DA98E5CE.tmp' to '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/TopDownCharacter.uasset'
+[2016.11.12-01.22.39:006][114]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/TopDownCharacter.uasset
+[2016.11.12-01.22.42:234][357]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.11.12-01.22.42:234][357]LogPlayLevel: [PlayLevel] Compiling mainPlayerHud before play...
+[2016.11.12-01.22.42:457][357]LogPlayLevel: PlayLevel: Blueprint regeneration took 223 ms (1 blueprints)
+[2016.11.12-01.22.42:457][357]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:22:42 am)
+[2016.11.12-01.22.42:457][357]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.22.42:462][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004648s)
+[2016.11.12-01.22.42:462][357]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.22.42:463][357]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2016.11.12-01.22.42:463][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.005873s)
+[2016.11.12-01.22.42:487][357]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.22.42:497][357]LogInit: FAudioDevice initialized.
+[2016.11.12-01.22.42:528][357]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.22.42:531][357]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.22.42
+[2016.11.12-01.22.42:532][357]LogWorld: Bringing up level for play took: 0.003149
+[2016.11.12-01.22.42:533][357]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.22.42:533][357]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.22.42:533][357]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.22.42:535][357]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.22.42:535][357]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel 0.366
+[2016.11.12-01.23.32:163][417]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.23.32:471][417]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.23.32:931][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownCharacter" FILE="../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2016.11.12-01.23.33:005][434]LogSavePackage: Save=65.45ms
+[2016.11.12-01.23.33:005][434]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/TopDownCharacterD7583E624C901E159DF431A03DA331DD.tmp' to '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/TopDownCharacter.uasset'
+[2016.11.12-01.23.33:013][434]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/TopDownCharacter.uasset
+[2016.11.12-01.23.35:136][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.23.35:136][569]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:23:35 am)
+[2016.11.12-01.23.35:136][569]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.23.35:142][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005488s)
+[2016.11.12-01.23.35:143][569]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.23.35:143][569]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2016.11.12-01.23.35:143][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.006603s)
+[2016.11.12-01.23.35:168][569]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.23.35:178][569]LogInit: FAudioDevice initialized.
+[2016.11.12-01.23.35:209][569]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.23.35:212][569]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.23.35
+[2016.11.12-01.23.35:213][569]LogWorld: Bringing up level for play took: 0.003415
+[2016.11.12-01.23.35:214][569]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.23.35:214][569]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.23.35:214][569]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.23.35:216][569]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.23.35:216][569]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel 1.047
+[2016.11.12-01.25.20:086][423]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.25.20:131][423]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning Could not find a variable named "Startcountdown" in 'mainPlayerHud_C'.
+Make sure 'mainPlayerHud_C' has been compiled for  K2Node_VariableSet_375
+[2016.11.12-01.25.20:131][423]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning Could not find a variable named "Startcountdown" in 'mainPlayerHud_C'.
+Make sure 'mainPlayerHud_C' has been compiled for  K2Node_VariableSet_376
+[2016.11.12-01.25.20:135][423]LogBlueprint:Error: [Compiler TopDownCharacter] Error The property associated with  Startcountdown  could not be found
+[2016.11.12-01.25.20:538][423]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Startcountdown" in 'mainPlayerHud_C'.
+Make sure 'mainPlayerHud_C' has been compiled for  K2Node_VariableSet_375
+[2016.11.12-01.25.20:538][423]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Startcountdown" in 'mainPlayerHud_C'.
+Make sure 'mainPlayerHud_C' has been compiled for  K2Node_VariableSet_376
+[2016.11.12-01.25.20:538][423]BlueprintEditorCompileResults:Error: Error The property associated with  Startcountdown  could not be found
+[2016.11.12-01.25.20:539][423]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.25.20:539][423]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [1651.91] Compile of TopDownCharacter failed. 1 Fatal Issue(s) 2 Warning(s) [in 453 ms] (/Game/Blueprints/TopDownCharacter.TopDownCharacter)
+[2016.11.12-01.26.36:069][282]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.26.36:294][282]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.27.40:682][746]LogEditorTransaction: Undo Add Node
+[2016.11.12-01.27.43:660][945]BlueprintLog: New page: Compile mainPlayerHud
+[2016.11.12-01.27.51:257][373]LogEditorTransaction: Undo Move Node
+[2016.11.12-01.27.52:416][438]LogEditorTransaction: Undo Add Node
+[2016.11.12-01.28.14:914][822]LogEditorTransaction: Undo Paste clipboard contents
+[2016.11.12-01.29.12:260][350]LogEditorTransaction: Undo Paste clipboard contents
+[2016.11.12-01.29.38:866][115]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.29.38:918][115]LogBlueprint:Error: [Compiler TopDownCharacter] Error This blueprint (self) is not a mainPlayerHud_C, therefore ' self ' must have a connection.
+[2016.11.12-01.29.38:919][115]LogBlueprint:Error: [Compiler TopDownCharacter] Error Variable node  K2Node_VariableSet_564  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.12-01.29.39:181][115]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a mainPlayerHud_C, therefore ' self ' must have a connection.
+[2016.11.12-01.29.39:181][115]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableSet_564  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.12-01.29.39:181][115]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.29.39:181][115]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [1910.55] Compile of TopDownCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 315 ms] (/Game/Blueprints/TopDownCharacter.TopDownCharacter)
+[2016.11.12-01.29.48:536][701]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.29.48:763][701]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.29.56:148][183]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.29.56:374][183]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.31.03:045][435]BlueprintLog: New page: Compile mainPlayerHud
+[2016.11.12-01.31.05:227][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.31.05:227][534]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:31:05 am)
+[2016.11.12-01.31.05:227][534]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.31.05:232][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004647s)
+[2016.11.12-01.31.05:233][534]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.31.05:233][534]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2016.11.12-01.31.05:233][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.006044s)
+[2016.11.12-01.31.05:262][534]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.31.05:274][534]LogInit: FAudioDevice initialized.
+[2016.11.12-01.31.05:303][534]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.31.05:306][534]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.31.05
+[2016.11.12-01.31.05:307][534]LogWorld: Bringing up level for play took: 0.003006
+[2016.11.12-01.31.05:308][534]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.31.05:308][534]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.31.05:308][534]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.31.05:322][534]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.31.05:322][534]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel -0.847
+[2016.11.12-01.32.01:799][102]BlueprintLog: New page: Compile TopDownCharacter
+[2016.11.12-01.32.02:029][102]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.11.12-01.32.05:633][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.32.05:633][303]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:32:05 am)
+[2016.11.12-01.32.05:633][303]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.32.05:638][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004639s)
+[2016.11.12-01.32.05:638][303]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.32.05:639][303]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2016.11.12-01.32.05:639][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.005911s)
+[2016.11.12-01.32.05:665][303]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.32.05:675][303]LogInit: FAudioDevice initialized.
+[2016.11.12-01.32.05:706][303]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.32.05:709][303]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.32.05
+[2016.11.12-01.32.05:710][303]LogWorld: Bringing up level for play took: 0.003251
+[2016.11.12-01.32.05:711][303]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.32.05:711][303]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.32.05:711][303]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.32.05:713][303]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.32.05:713][303]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel -0.456
+[2016.11.12-01.32.57:337][  3]BlueprintLog: New page: Compile mainPlayerHud
+[2016.11.12-01.32.57:957][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ui/mainPlayerHud" FILE="../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/Ui/mainPlayerHud.uasset" SILENT=true
+[2016.11.12-01.32.58:007][ 34]LogSavePackage: Save=37.85ms
+[2016.11.12-01.32.58:007][ 34]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/mainPlayerHudFA208D174084C243A36ECAB92E2242E4.tmp' to '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/Ui/mainPlayerHud.uasset'
+[2016.11.12-01.32.58:015][ 34]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprints/Ui/mainPlayerHud.uasset
+[2016.11.12-01.32.58:866][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.32.58:866][ 94]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:32:58 am)
+[2016.11.12-01.32.58:866][ 94]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.32.58:871][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004672s)
+[2016.11.12-01.32.58:871][ 94]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.32.58:872][ 94]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2016.11.12-01.32.58:872][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.005827s)
+[2016.11.12-01.32.58:896][ 94]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.32.58:906][ 94]LogInit: FAudioDevice initialized.
+[2016.11.12-01.32.58:938][ 94]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.32.58:941][ 94]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.32.58
+[2016.11.12-01.32.58:942][ 94]LogWorld: Bringing up level for play took: 0.002945
+[2016.11.12-01.32.58:942][ 94]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.32.58:942][ 94]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.32.58:942][ 94]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.32.58:944][ 94]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.32.58:944][ 94]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel 0.776
+[2016.11.12-01.33.36:719][134]LogEditorTransaction: Undo Add Node
+[2016.11.12-01.33.45:749][854]BlueprintLog: New page: Compile mainPlayerHud
+[2016.11.12-01.33.47:751][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.33.47:751][982]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:33:47 am)
+[2016.11.12-01.33.47:752][982]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.33.47:756][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004613s)
+[2016.11.12-01.33.47:757][982]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.33.47:757][982]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2016.11.12-01.33.47:757][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.005780s)
+[2016.11.12-01.33.47:783][982]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.33.47:792][982]LogInit: FAudioDevice initialized.
+[2016.11.12-01.33.47:820][982]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.33.47:823][982]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.33.47
+[2016.11.12-01.33.47:824][982]LogWorld: Bringing up level for play took: 0.003067
+[2016.11.12-01.33.47:824][982]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.33.47:824][982]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.33.47:824][982]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.33.47:826][982]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.33.47:826][982]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel -0.342
+[2016.11.12-01.34.23:365][299]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2016.11.12-01.34.24:784][447]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.11.12-01.34.25:529][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.34.25:529][523]PIE: New page: PIE session: Mainlevel (12 Nov 2016 3:34:25 am)
+[2016.11.12-01.34.25:529][523]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2016.11.12-01.34.25:534][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005224s)
+[2016.11.12-01.34.25:535][523]LogAIModule: Creating AISystem for world Mainlevel
+[2016.11.12-01.34.25:535][523]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2016.11.12-01.34.25:536][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.006712s)
+[2016.11.12-01.34.25:560][523]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-01.34.25:570][523]LogInit: FAudioDevice initialized.
+[2016.11.12-01.34.25:603][523]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.12-01.34.25:606][523]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2016.11.12-02.34.25
+[2016.11.12-01.34.25:606][523]LogWorld: Bringing up level for play took: 0.002974
+[2016.11.12-01.34.25:607][523]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.34.25:607][523]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.34.25:607][523]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.34.25:609][523]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.34.25:609][523]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel -0.56
+[2016.11.12-01.34.25:869][551]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.28:911][909]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.28:920][910]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.33:536][449]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.33:653][462]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.33:662][463]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.33:671][464]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.33:680][465]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:549][682]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:566][684]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:574][685]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:582][686]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:591][687]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:599][688]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:607][689]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:616][690]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:624][691]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:632][692]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:632][692]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:641][693]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:657][695]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:674][697]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:683][698]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:691][699]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:699][700]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:699][700]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:708][701]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:716][702]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:724][703]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:724][703]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:733][704]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:733][704]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:741][705]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:741][705]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:749][706]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:749][706]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:758][707]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.35:758][707]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.44:451][720]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.44:459][721]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.34.44:468][722]LogBlueprintUserMessages: [TopDownCharacter_C_0] DamageDone.Player
+[2016.11.12-01.35.15:909][166]LogSavePackage: Save=29.72ms
+[2016.11.12-01.35.15:909][166]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Mainlevel_Auto382E1EF78438F0E40D25FBAB645F4AC1B.tmp' to '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Autosaves/Game/Levels/Mainlevel_Auto3.umap'
+[2016.11.12-01.35.15:913][166]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Autosaves/Game/Levels/Mainlevel_Auto3.umap
+[2016.11.12-01.35.15:916][166]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Mainlevel' took 0.064
+[2016.11.12-01.35.15:916][166]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.064
+[2016.11.12-01.35.15:920][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2016.11.12-01.35.15:920][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TopDownCharacter]
+[2016.11.12-01.35.16:135][166]LogSavePackage: Save=91.33ms
+[2016.11.12-01.35.16:135][166]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/TopDownCharacter_Auto32D95D6124A1B05862B74358B1D342863.tmp' to '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Autosaves/Game/Blueprints/TopDownCharacter_Auto3.uasset'
+[2016.11.12-01.35.16:139][166]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Autosaves/Game/Blueprints/TopDownCharacter_Auto3.uasset
+[2016.11.12-01.35.16:142][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Ui/mainPlayerHud] ([1] browsable assets)...
+[2016.11.12-01.35.16:142][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Ui/mainPlayerHud]
+[2016.11.12-01.35.16:188][166]LogSavePackage: Save=37.47ms
+[2016.11.12-01.35.16:188][166]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/mainPlayerHud_Auto3992230E44785289A0A93DF80E9359875.tmp' to '../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Autosaves/Game/Blueprints/Ui/mainPlayerHud_Auto3.uasset'
+[2016.11.12-01.35.16:191][166]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Saved/Autosaves/Game/Blueprints/Ui/mainPlayerHud_Auto3.uasset
+[2016.11.12-01.35.16:191][166]LogFileHelpers: Auto-saving content packages took 0.275
+[2016.11.12-01.35.53:754][910]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2016.11.12-01.35.55:512][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownCharacter" FILE="../../../../../../Users/dollon/Documents/GitHub/Revolverrouge/Content/Blueprin
