@@ -1,0 +1,1010 @@
+﻿Log file open, 11/11/16 23:22:18
+LogInit:Display: Running engine without a game
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: Loading recent project file: ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Revolver_Rouge.uproject
+LogInit:Display: RandInit(-1413617827) SRandInit(-1413617827).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.071352
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.11-22.22.18:448][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.11-22.22.18:448][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.11-22.22.18:460][  0]LogInit: Computer: DESKTOP-G1HI001
+[2016.11.11-22.22.18:460][  0]LogInit: User: dollon
+[2016.11.11-22.22.18:460][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.11-22.22.18:460][  0]LogInit: High frequency timer resolution =3.319353 MHz
+[2016.11.11-22.22.18:460][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2016.11.11-22.22.18:460][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.11-22.22.18:460][  0]LogMemory: Process Physical Memory: 256.30 MB used, 256.30 MB peak
+[2016.11.11-22.22.18:460][  0]LogMemory: Process Virtual Memory: 259.92 MB used, 259.92 MB peak
+[2016.11.11-22.22.18:460][  0]LogMemory: Physical Memory: 6559.43 MB used, 16303.07 MB total
+[2016.11.11-22.22.18:460][  0]LogMemory: Virtual Memory: 622.54 MB used, 134217728.00 MB total
+[2016.11.11-22.22.18:491][  0]LogTextLocalizationManager: No specific translations for ('en-AU') exist, so ('en') translations will be used.
+[2016.11.11-22.22.19:030][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.11-22.22.19:049][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770' (Feature Level 11_0)
+[2016.11.11-22.22.19:049][  0]LogD3D11RHI:       2017/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2016.11.11-22.22.19:051][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.11-22.22.19:051][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.11-22.22.19:051][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.11-22.22.19:055][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.11-22.22.19:055][  0]LogD3D11RHI:     GPU DeviceId: 0x1184 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.11-22.22.19:055][  0]LogWindows: EnumDisplayDevices:
+[2016.11.11-22.22.19:055][  0]LogWindows:    0. 'NVIDIA GeForce GTX 770' (P:1 D:1)
+[2016.11.11-22.22.19:055][  0]LogWindows:    1. 'NVIDIA GeForce GTX 770' (P:0 D:1)
+[2016.11.11-22.22.19:056][  0]LogWindows:    2. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2016.11.11-22.22.19:056][  0]LogWindows:    3. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2016.11.11-22.22.19:056][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.11.11-22.22.19:056][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770
+[2016.11.11-22.22.19:056][  0]LogD3D11RHI:   Driver Version: 372.70 (internal:21.21.13.7270, unified:372.70)
+[2016.11.11-22.22.19:056][  0]LogD3D11RHI:      Driver Date: 8-25-2016
+[2016.11.11-22.22.19:056][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.11-22.22.19:068][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.11-22.22.19:077][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.11.11-22.22.19:078][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Intermediate/Shaders/WorkingDirectory/4584/).
+[2016.11.11-22.22.19:078][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dollon/AppData/Local/Temp/UnrealShaderWorkingDir/0B4392DA452DCA46158556A5A402DD0A/'.
+[2016.11.11-22.22.19:078][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.11-22.22.19:967][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.11-22.22.19:974][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.11-22.22.19:981][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.11-22.22.19:988][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.11-22.22.19:995][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.11-22.22.20:002][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.11-22.22.20:008][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.11-22.22.20:015][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.11-22.22.20:021][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.11-22.22.20:027][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.11-22.22.20:033][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.11-22.22.20:046][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.11-22.22.20:046][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.11-22.22.20:047][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.11-22.22.20:065][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.11-22.22.20:071][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.11-22.22.20:078][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.11-22.22.20:084][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.11-22.22.20:090][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.11-22.22.20:096][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.11-22.22.20:096][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.11-22.22.20:154][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.11-22.22.20:215][  0]LogDerivedDataCache: Loaded boot cache 0.06s 62MB C:/Users/dollon/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.11-22.22.20:215][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/dollon/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.11-22.22.20:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.11-22.22.20:215][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.11-22.22.20:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.11-22.22.20:215][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.11-22.22.20:231][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.11-22.22.20:244][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dollon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.11-22.22.20:432][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.11-22.22.20:435][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.11-22.22.20:515][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.11-22.22.20:515][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.11-22.22.20:515][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.11-22.22.20:578][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.11-22.22.20:833][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: revolver_rouge, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 4118575143
+[2016.11.11-22.22.20:870][  0]LogAssetRegistry: FAssetRegistry took 0.0214 seconds to start up
+[2016.11.11-22.22.20:915][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.043995 seconds
+[2016.11.11-22.22.20:920][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.11.11-22.22.20:920][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2016.11.11-22.22.20:920][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.11-22.22.20:924][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.11-22.22.21:095][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.11-22.22.21:095][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.11-22.22.21:670][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.11-22.22.21:690][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.11-22.22.21:929][  0]SourceControl: Info Source control is disabled
+[2016.11.11-22.22.21:930][  0]SourceControl: Info Source control is disabled
+[2016.11.11-22.22.21:937][  0]SourceControl: Info Source control is disabled
+[2016.11.11-22.22.21:944][  0]SourceControl: Info Source control is disabled
+[2016.11.11-22.22.22:006][  0]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2016.11.11-22.22.22:006][  0]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2016.11.11-22.22.22:006][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2016.11.11-22.22.22:187][  0]LogEngine: Initializing Engine...
+[2016.11.11-22.22.22:189][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.11.11-22.22.22:311][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.11-22.22.22:329][  0]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.11-22.22.22:342][  0]LogInit: FAudioDevice initialized.
+[2016.11.11-22.22.22:376][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/dollon/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.11-22.22.22:384][  0]LogInit: Texture streaming: Enabled
+[2016.11.11-22.22.22:412][  0]LogInit: Transaction tracking system initialized
+[2016.11.11-22.22.22:428][  0]BlueprintLog: New page: Editor Load
+[2016.11.11-22.22.22:495][  0]LocalizationService: Info Localization service is disabled
+[2016.11.11-22.22.22:560][  0]LogConsoleResponse:Display: 
+[2016.11.11-22.22.22:650][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.11-22.22.22:650][  0]LogCook:Display: Mobile HDR setting 1
+[2016.11.11-22.22.22:770][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/' took 0.01s
+[2016.11.11-22.22.22:770][  0]SourceControl: Info Source control is disabled
+[2016.11.11-22.22.22:771][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.11-22.22.22:771][  0]LightingResults: New page: Lighting Build
+[2016.11.11-22.22.22:773][  0]MapCheck: New page: Map Check
+[2016.11.11-22.22.22:773][  0]LightingResults: New page: Lighting Build
+[2016.11.11-22.22.22:982][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2016.11.11-22.22.22:986][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.11-22.22.22:989][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.11-22.22.23:027][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 37.619ms to complete.
+[2016.11.11-22.22.23:027][  0]LogFileHelpers: Loading map 'Template_Default' took 0.256
+[2016.11.11-22.22.23:138][  0]LogCollectionManager: Loaded 0 collections in 0.001027 seconds
+[2016.11.11-22.22.23:183][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Collections/' took 0.01s
+[2016.11.11-22.22.23:183][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Developers/dollon/Collections/' took 0.01s
+[2016.11.11-22.22.23:183][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Collections/' took 0.01s
+[2016.11.11-22.22.23:183][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2016.11.11-22.22.23:191][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2141 classes and 415 folders.
+[2016.11.11-22.22.23:194][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.11-22.22.23:194][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.11-22.22.23:195][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0004 seconds. Added 12 classes and 0 folders.
+[2016.11.11-22.22.23:198][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.11.11-22.22.23:236][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.11.11-22.22.23:240][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.11.11-22.22.23:251][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.11-22.22.23:258][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.11-22.22.23:284][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.11.11-22.22.23:284][  0]LogLoad: (Engine Initialization) Total time: 5.59 seconds
+[2016.11.11-22.22.23:284][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.04 seconds
+[2016.11.11-22.22.23:284][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.11-22.22.23:284][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.11-22.22.23:293][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.11-22.22.23:293][  0]LogOcInput: OculusInput pre-init called
+[2016.11.11-22.22.23:308][  0]LogAssetRegistry: Asset discovery search completed in 2.4601 seconds
+[2016.11.11-22.22.23:308][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.11.11-22.22.23:308][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2016.11.11-22.22.23:311][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.11.11-22.22.23:444][  0]LogRenderer: Reallocating scene render targets to support 1228x540 (Frame:2).
+[2016.11.11-22.23.01:880][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/off" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Textures/off.uasset" SILENT=true
+[2016.11.11-22.23.01:886][391]LogSavePackage: Save=3.28ms
+[2016.11.11-22.23.01:886][391]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/offB716A6BF4DD96A5451C486B3DCE445A4.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Textures/off.uasset'
+[2016.11.11-22.23.01:894][391]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Textures/off.uasset
+[2016.11.11-22.23.01:899][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/on" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Textures/on.uasset" SILENT=true
+[2016.11.11-22.23.01:905][391]LogSavePackage: Save=3.13ms
+[2016.11.11-22.23.01:905][391]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/on4A0810C744813024A504CF82925E858C.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Textures/on.uasset'
+[2016.11.11-22.23.01:912][391]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Textures/on.uasset
+[2016.11.11-22.23.02:050][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/topdown/Ui/mainPlayerHud" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Ui/mainPlayerHud.uasset" SILENT=true
+[2016.11.11-22.23.02:195][391]LogSavePackage: Save=75.86ms
+[2016.11.11-22.23.02:195][391]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/mainPlayerHud88E86D5B41446BF1A13F63B96F6B1226.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Ui/mainPlayerHud.uasset'
+[2016.11.11-22.23.02:199][391]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Ui/mainPlayerHud.uasset
+[2016.11.11-22.23.02:201][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/topdown/Ui/mainPlayerHud" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Ui/mainPlayerHud.uasset" SILENT=true
+[2016.11.11-22.23.02:240][391]LogSavePackage: Save=33.55ms
+[2016.11.11-22.23.02:241][391]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/mainPlayerHud394D37424D41BF615AF67CA5A37DA60D.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Ui/mainPlayerHud.uasset'
+[2016.11.11-22.23.02:244][391]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Ui/mainPlayerHud.uasset
+[2016.11.11-22.23.02:532][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/topdown/Ui/on_Mat" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Ui/on_Mat.uasset" SILENT=true
+[2016.11.11-22.23.02:553][391]LogSavePackage: Save=11.73ms
+[2016.11.11-22.23.02:553][391]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/on_MatAAAA9E84479073FCBC4F988814649186.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Ui/on_Mat.uasset'
+[2016.11.11-22.23.02:556][391]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Ui/on_Mat.uasset
+[2016.11.11-22.23.02:574][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/topdown/Ui/on_Mat2" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Ui/on_Mat2.uasset" SILENT=true
+[2016.11.11-22.23.02:595][391]LogSavePackage: Save=12.19ms
+[2016.11.11-22.23.02:595][391]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/on_Mat202AB5BC247C3E4F58529C38B12AB7492.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Ui/on_Mat2.uasset'
+[2016.11.11-22.23.02:599][391]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Ui/on_Mat2.uasset
+[2016.11.11-22.23.32:062][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/Material/randombooks" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/Material/randombooks.uasset" SILENT=true
+[2016.11.11-22.23.32:077][881]LogSavePackage: Save=12.36ms
+[2016.11.11-22.23.32:077][881]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/randombooks6C51A74646FE15506C33238DB6CBA6DC.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/Material/randombooks.uasset'
+[2016.11.11-22.23.32:084][881]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/Material/randombooks.uasset
+[2016.11.11-22.23.32:198][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/3D/book" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/3D/book.uasset" SILENT=true
+[2016.11.11-22.23.32:230][881]LogSavePackage: Save=24.57ms
+[2016.11.11-22.23.32:230][881]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/bookF6BC67C845F3695568CBA8950D40F10C.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/3D/book.uasset'
+[2016.11.11-22.23.32:233][881]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/3D/book.uasset
+[2016.11.11-22.24.06:007][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/topdown/tiles/enemy2" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/tiles/enemy2.uasset" SILENT=true
+[2016.11.11-22.24.06:021][912]LogSavePackage: Save=5.52ms
+[2016.11.11-22.24.06:021][912]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/enemy2564BBAE9428A13DB55BDC883DC61EC9F.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/tiles/enemy2.uasset'
+[2016.11.11-22.24.06:025][912]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/tiles/enemy2.uasset
+[2016.11.11-22.24.06:036][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/topdown/tiles/enemy" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/tiles/enemy.uasset" SILENT=true
+[2016.11.11-22.24.06:051][912]LogSavePackage: Save=5.71ms
+[2016.11.11-22.24.06:051][912]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/enemyA8ABE5914CDE560A32A48D8A311C9B49.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/tiles/enemy.uasset'
+[2016.11.11-22.24.06:054][912]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/tiles/enemy.uasset
+[2016.11.11-22.24.30:607][825]LogLinker:Warning: Can't find file '/Game/topdown/tiles/enemy'
+[2016.11.11-22.24.30:607][825]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/enemy' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset.
+[2016.11.11-22.24.30:607][825]LoadErrors:Error: Error /Game/topdown/Blueprints/Enemy/enemy : Can't find file for asset. /Game/topdown/tiles/enemy
+[2016.11.11-22.24.30:611][825]LogLinker:Warning: Can't find file '/Game/topdown/tiles/enemy'
+[2016.11.11-22.24.30:611][825]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/enemy' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset.
+[2016.11.11-22.24.30:670][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/papaerFlipbook/Rattd" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Sprites/papaerFlipbook/Rattd.uasset" SILENT=true
+[2016.11.11-22.24.30:680][825]LogSavePackage: Save=5.43ms
+[2016.11.11-22.24.30:680][825]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Rattd5A324B3A471B92717839B38352336D8B.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Sprites/papaerFlipbook/Rattd.uasset'
+[2016.11.11-22.24.30:687][825]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Sprites/papaerFlipbook/Rattd.uasset
+[2016.11.11-22.24.30:783][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownCharacter" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2016.11.11-22.24.30:874][825]LogSavePackage: Save=80.99ms
+[2016.11.11-22.24.30:874][825]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/TopDownCharacter662F28994EEF38645C5C63B35465583A.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset'
+[2016.11.11-22.24.30:878][825]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset
+[2016.11.11-22.24.30:881][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/topdown/TopDown/Rattd" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/Rattd.uasset" SILENT=true
+[2016.11.11-22.24.30:892][825]LogSavePackage: Save=3.04ms
+[2016.11.11-22.24.30:892][825]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Rattd7F7BDE9C4C739FF31161979DACD36E42.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/Rattd.uasset'
+[2016.11.11-22.24.30:896][825]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/Rattd.uasset
+[2016.11.11-22.24.33:796][161]LogSavePackage: Save=6.66ms
+[2016.11.11-22.24.33:796][161]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Rattd__1__SpriteDBF12528472F296CC7522DA8D6CEA9DB.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Sprites/Sprite/Rattd__1__Sprite.uasset'
+[2016.11.11-22.24.33:804][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Sprites/Sprite/Rattd__1__Sprite.uasset
+[2016.11.11-22.24.33:907][161]LogSavePackage: Save=2.84ms
+[2016.11.11-22.24.33:907][161]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Rattd__1__Sprite8C7DBBC544A2D88E9A4141B09CA71C79.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/Rattd__1__Sprite.uasset'
+[2016.11.11-22.24.33:911][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/Rattd__1__Sprite.uasset
+[2016.11.11-22.24.33:914][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/papaerFlipbook/Rattd" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Sprites/papaerFlipbook/Rattd.uasset" SILENT=true
+[2016.11.11-22.24.33:925][161]LogSavePackage: Save=3.23ms
+[2016.11.11-22.24.33:925][161]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Rattd02B4682946B322C95A0DA8B873F7431E.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Sprites/papaerFlipbook/Rattd.uasset'
+[2016.11.11-22.24.33:928][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Sprites/papaerFlipbook/Rattd.uasset
+[2016.11.11-22.24.35:946][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/raw/Rattd__1_" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Sprites/raw/Rattd__1_.uasset" SILENT=true
+[2016.11.11-22.24.35:952][393]LogSavePackage: Save=3.12ms
+[2016.11.11-22.24.35:952][393]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Rattd__1_7BF9F00B4E1C7CEAE0D182852D273E06.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Sprites/raw/Rattd__1_.uasset'
+[2016.11.11-22.24.35:960][393]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Sprites/raw/Rattd__1_.uasset
+[2016.11.11-22.24.36:051][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/topdown/TopDown/Rattd__1_" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/Rattd__1_.uasset" SILENT=true
+[2016.11.11-22.24.36:062][393]LogSavePackage: Save=2.82ms
+[2016.11.11-22.24.36:062][393]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Rattd__1_2C2BD150443DE50032B11C84F438E176.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/Rattd__1_.uasset'
+[2016.11.11-22.24.36:066][393]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/Rattd__1_.uasset
+[2016.11.11-22.24.36:079][393]LogSavePackage: Save=3.96ms
+[2016.11.11-22.24.36:079][393]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Rattd__1__SpriteD2E696EB4BDC943F605BDD837306923A.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Sprites/Sprite/Rattd__1__Sprite.uasset'
+[2016.11.11-22.24.36:082][393]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Sprites/Sprite/Rattd__1__Sprite.uasset
+[2016.11.11-22.24.44:191][354]LogMaterial: Missing cached shader map for material Tile01_Mat, compiling. 
+[2016.11.11-22.24.44:435][354]LogMaterial: Missing cached shader map for material Tile01_Mat, compiling. 
+[2016.11.11-22.24.44:445][354]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.11-22.24.44:480][354]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.11.11-22.24.47:685][703]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2016.11.11-22.24.47:685][703]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2016.11.11-22.24.47:685][703]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.11.11-22.24.47:685][703]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.11.11-22.24.54:875][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/Material/Tile01_Mat" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/Material/Tile01_Mat.uasset" SILENT=true
+[2016.11.11-22.24.54:892][469]LogSavePackage: Save=13.62ms
+[2016.11.11-22.24.54:892][469]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Tile01_Mat72FD7D83402D342FDE7D65BD1457DB9F.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/Material/Tile01_Mat.uasset'
+[2016.11.11-22.24.54:899][469]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/Material/Tile01_Mat.uasset
+[2016.11.11-22.24.55:004][469]LogSavePackage: Save=2.62ms
+[2016.11.11-22.24.55:004][469]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Tile01_Mat62F893F44F7BEAC76C88D1ABC40F328B.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/tiles/Tile01_Mat.uasset'
+[2016.11.11-22.24.55:008][469]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/tiles/Tile01_Mat.uasset
+[2016.11.11-22.24.57:813][795]LogSavePackage: Save=5.34ms
+[2016.11.11-22.24.57:813][795]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/14997098_218576978572787_1518682198_n513EEAF94C0A145B940FB5A6F5592438.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Textures/14997098_218576978572787_1518682198_n.uasset'
+[2016.11.11-22.24.57:820][795]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Textures/14997098_218576978572787_1518682198_n.uasset
+[2016.11.11-22.24.57:929][795]LogSavePackage: Save=2.56ms
+[2016.11.11-22.24.57:929][795]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/14997098_218576978572787_1518682198_nB93AB3EB44A30A66EDC2AF930A8B7D21.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/tiles/14997098_218576978572787_1518682198_n.uasset'
+[2016.11.11-22.24.57:932][795]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/tiles/14997098_218576978572787_1518682198_n.uasset
+[2016.11.11-22.24.57:934][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/Material/Tile01_Mat" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/Material/Tile01_Mat.uasset" SILENT=true
+[2016.11.11-22.24.57:945][795]LogSavePackage: Save=3.80ms
+[2016.11.11-22.24.57:945][795]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Tile01_Mat2E2421BD4438F9E60F3EB2825D093735.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/Material/Tile01_Mat.uasset'
+[2016.11.11-22.24.57:948][795]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/Material/Tile01_Mat.uasset
+[2016.11.11-22.25.30:929][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/3D/on_Mat" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/3D/on_Mat.uasset" SILENT=true
+[2016.11.11-22.25.30:945][536]LogSavePackage: Save=12.51ms
+[2016.11.11-22.25.30:945][536]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/on_Mat21A17C434086926DFCC7ABBF72013555.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/3D/on_Mat.uasset'
+[2016.11.11-22.25.30:952][536]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/3D/on_Mat.uasset
+[2016.11.11-22.25.30:968][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/3D/on_Mat2" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/3D/on_Mat2.uasset" SILENT=true
+[2016.11.11-22.25.30:982][536]LogSavePackage: Save=10.85ms
+[2016.11.11-22.25.30:982][536]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/on_Mat276C13F414AD8056294B1B6BF1B3EE54E.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/3D/on_Mat2.uasset'
+[2016.11.11-22.25.30:990][536]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Asset/3D/on_Mat2.uasset
+[2016.11.11-22.25.35:974][112]LogLinker:Warning: Can't find file '/Game/topdown/tiles/enemy'
+[2016.11.11-22.25.35:974][112]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/enemy' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset.
+[2016.11.11-22.25.35:979][112]LogLinker:Warning: Can't find file '/Game/topdown/tiles/enemy'
+[2016.11.11-22.25.35:979][112]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/enemy' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset.
+[2016.11.11-22.25.36:010][112]LogMetaData: Removing '/Game/Blueprints/Ui/MainMenu.MainMenu_C' ref from Metadata '/Game/topdown/Ui/MainMenu.PackageMetaData'
+[2016.11.11-22.25.36:010][112]LogMetaData: Removing '/Game/Blueprints/Ui/MainMenu.MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/topdown/Ui/MainMenu.PackageMetaData'
+[2016.11.11-22.25.36:010][112]LogMetaData: Removing '/Game/Blueprints/Ui/MainMenu.MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/topdown/Ui/MainMenu.PackageMetaData'
+[2016.11.11-22.25.36:010][112]LogMetaData: Removing '/Game/Blueprints/Ui/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu' ref from Metadata '/Game/topdown/Ui/MainMenu.PackageMetaData'
+[2016.11.11-22.25.36:010][112]LogMetaData: Removing '/Game/Blueprints/Ui/MainMenu.MainMenu_C:Button_102' ref from Metadata '/Game/topdown/Ui/MainMenu.PackageMetaData'
+[2016.11.11-22.25.36:010][112]LogMetaData: Removing '/Game/Blueprints/Ui/MainMenu.MainMenu_C:Button_247' ref from Metadata '/Game/topdown/Ui/MainMenu.PackageMetaData'
+[2016.11.11-22.25.36:010][112]LogMetaData: Removing '/Game/Blueprints/Ui/MainMenu.SKEL_MainMenu_C:Button_247' ref from Metadata '/Game/topdown/Ui/MainMenu.PackageMetaData'
+[2016.11.11-22.25.36:010][112]LogMetaData: Removing '/Game/Blueprints/Ui/MainMenu.SKEL_MainMenu_C:Button_102' ref from Metadata '/Game/topdown/Ui/MainMenu.PackageMetaData'
+[2016.11.11-22.25.36:010][112]LogMetaData: Removing '/Game/Blueprints/Ui/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu' ref from Metadata '/Game/topdown/Ui/MainMenu.PackageMetaData'
+[2016.11.11-22.25.36:010][112]LogMetaData: Removing '/Game/Blueprints/Ui/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/topdown/Ui/MainMenu.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:EventGraph.K2Node_Event_0' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:GetAmmoCurrent.K2Node_FunctionResult_2' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:GetAmmoCurrent.K2Node_FunctionEntry_80' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:Get_HealtValue_Text_0.K2Node_FunctionResult_10' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:Get_HealtValue_Text_0.K2Node_FunctionEntry_256' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:GetScore.K2Node_FunctionResult_0' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:GetScore.K2Node_FunctionEntry_26' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:PlayerHealthBar.K2Node_FunctionResult_9' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:PlayerHealthBar.K2Node_FunctionEntry_217' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:Get_TextBlock_481_Text_0.K2Node_FunctionResult_12' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:Get_TextBlock_481_Text_0.K2Node_FunctionEntry_310' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:Get_PlayerMana_Percent_0.K2Node_FunctionResult_11' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:Get_PlayerMana_Percent_0.K2Node_FunctionEntry_299' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:GetAmmoMax.K2Node_FunctionResult_1' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:GetAmmoMax.K2Node_FunctionEntry_73' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:ExecuteUbergraph_mainPlayerHud' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:GetBrush_0.K2Node_FunctionResult_0' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:Construct' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:GetBrush_0.K2Node_FunctionEntry_40' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:Image_74' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:Image_111' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:Image_199' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:PlayerHealth' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:PlayerMana' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:myCharacter' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:Health' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:mana' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:float' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:basicpistol' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:score' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:image01' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:wichisselected' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:image02' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:Selectimage' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:slatebrush' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud_C:NewVar_0' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:GetBrush_1.K2Node_FunctionResult_1' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.mainPlayerHud:GetBrush_1.K2Node_FunctionEntry_113' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:NewVar_0' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:slatebrush' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:Selectimage' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:image02' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:wichisselected' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:image01' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:score' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:basicpistol' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:float' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:mana' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:Health' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:myCharacter' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:PlayerMana' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:PlayerHealth' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:Image_199' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:Image_111' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:Image_74' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:Construct' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C:ExecuteUbergraph_mainPlayerHud' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:020][112]LogMetaData: Removing '/Game/Blueprints/Ui/mainPlayerHud.SKEL_mainPlayerHud_C' ref from Metadata '/Game/topdown/Ui/mainPlayerHud.PackageMetaData'
+[2016.11.11-22.25.36:037][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ui/MainMenu" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/Ui/MainMenu.uasset" SILENT=true
+[2016.11.11-22.25.36:049][112]LogSavePackage: Save=8.99ms
+[2016.11.11-22.25.36:049][112]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/MainMenuFE8C128E488BF4D479972E95FA2A5CB5.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/Ui/MainMenu.uasset'
+[2016.11.11-22.25.36:056][112]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/Ui/MainMenu.uasset
+[2016.11.11-22.25.36:059][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ui/mainPlayerHud" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/Ui/mainPlayerHud.uasset" SILENT=true
+[2016.11.11-22.25.36:101][112]LogSavePackage: Save=38.77ms
+[2016.11.11-22.25.36:101][112]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/mainPlayerHud94E7927C44B852E530C470B60A3DEE4C.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/Ui/mainPlayerHud.uasset'
+[2016.11.11-22.25.36:108][112]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/Ui/mainPlayerHud.uasset
+[2016.11.11-22.25.36:233][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownCharacter" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2016.11.11-22.25.36:321][112]LogSavePackage: Save=80.91ms
+[2016.11.11-22.25.36:321][112]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/TopDownCharacterFE85B6DE410CB8BA0D0B1B873670C739.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset'
+[2016.11.11-22.25.36:325][112]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset
+[2016.11.11-22.25.36:328][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/topdown/Blueprints/Enemy/enemy" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset" SILENT=true
+[2016.11.11-22.25.36:382][112]LogSavePackage: Save=46.12ms
+[2016.11.11-22.25.36:382][112]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/enemy6059BE1E496A65A7422E18A9C5E686A5.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset'
+[2016.11.11-22.25.36:390][112]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset
+[2016.11.11-22.25.36:394][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownCharacter" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2016.11.11-22.25.36:489][112]LogSavePackage: Save=88.24ms
+[2016.11.11-22.25.36:489][112]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/TopDownCharacter7DD9DAB4482139FAD4685CBFC5332580.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset'
+[2016.11.11-22.25.36:493][112]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset
+[2016.11.11-22.25.54:855][306]LogLinker:Warning: Can't find file '/Game/topdown/tiles/tiles/test'
+[2016.11.11-22.25.54:855][306]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/tiles/test' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/tiles/test.uasset.
+[2016.11.11-22.25.54:855][306]LoadErrors:Error: Error /Game/topdown/TopDown/tiles/test : Can't find file for asset. /Game/topdown/tiles/tiles/test
+[2016.11.11-22.25.54:856][306]LogLinker:Warning: Can't find file '/Game/topdown/tiles/tiles/test'
+[2016.11.11-22.25.54:856][306]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/tiles/test' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/tiles/test.uasset.
+[2016.11.11-22.25.54:856][306]LogLinker:Warning: Can't find file '/Game/topdown/tiles/tiles/test'
+[2016.11.11-22.25.54:856][306]LoadErrors: Info Failed to load /Game/topdown/tiles/tiles/test.test Referenced by test
+[2016.11.11-22.25.54:856][306]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/tiles/test' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/tiles/test.uasset.
+[2016.11.11-22.25.54:856][306]LoadErrors:Error: Error /Game/topdown/tiles/test : Can't find file for asset. /Game/topdown/tiles/tiles/test
+[2016.11.11-22.25.54:856][306]LogLinker:Warning: Can't find file '/Game/topdown/tiles/tiles/test'
+[2016.11.11-22.25.54:856][306]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/tiles/test' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/tiles/test.uasset.
+[2016.11.11-22.25.54:856][306]LogTextFormatter:Warning: Failed to parse argument "ImportClass" as a number (using "0" as a fallback). Please check your format string for errors: ": Failed import for {ImportClass}".
+[2016.11.11-22.25.54:857][306]LogLinker:Warning: Can't find file '/Game/topdown/tiles/tiles/test2'
+[2016.11.11-22.25.54:857][306]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/tiles/test2' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/tiles/test2.uasset.
+[2016.11.11-22.25.54:857][306]LoadErrors:Error: Error /Game/topdown/TopDown/tiles/test2 : Can't find file for asset. /Game/topdown/tiles/tiles/test2
+[2016.11.11-22.25.54:857][306]LogLinker:Warning: Can't find file '/Game/topdown/tiles/tiles/test2'
+[2016.11.11-22.25.54:858][306]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/tiles/test2' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/tiles/test2.uasset.
+[2016.11.11-22.25.54:858][306]LogLinker:Warning: Can't find file '/Game/topdown/tiles/tiles/test2'
+[2016.11.11-22.25.54:858][306]LoadErrors: Info Failed to load /Game/topdown/tiles/tiles/test2.test2 Referenced by test2
+[2016.11.11-22.25.54:858][306]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/tiles/test2' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/tiles/test2.uasset.
+[2016.11.11-22.25.54:858][306]LoadErrors:Error: Error /Game/topdown/tiles/test2 : Can't find file for asset. /Game/topdown/tiles/tiles/test2
+[2016.11.11-22.25.54:858][306]LogLinker:Warning: Can't find file '/Game/topdown/tiles/tiles/test2'
+[2016.11.11-22.25.54:858][306]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/tiles/test2' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/tiles/test2.uasset.
+[2016.11.11-22.25.54:858][306]LogTextFormatter:Warning: Failed to parse argument "ImportClass" as a number (using "0" as a fallback). Please check your format string for errors: ": Failed import for {ImportClass}".
+[2016.11.11-22.25.54:859][306]LogLinker:Warning: Can't find file '/Game/topdown/tiles/tiles/tile'
+[2016.11.11-22.25.54:859][306]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/tiles/tile' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/tiles/tile.uasset.
+[2016.11.11-22.25.54:859][306]LoadErrors:Error: Error /Game/topdown/TopDown/tiles/tile : Can't find file for asset. /Game/topdown/tiles/tiles/tile
+[2016.11.11-22.25.54:859][306]LogLinker:Warning: Can't find file '/Game/topdown/tiles/tiles/tile'
+[2016.11.11-22.25.54:859][306]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/tiles/tile' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/tiles/tile.uasset.
+[2016.11.11-22.25.54:859][306]LogLinker:Warning: Can't find file '/Game/topdown/tiles/tiles/tile'
+[2016.11.11-22.25.54:859][306]LoadErrors: Info Failed to load /Game/topdown/tiles/tiles/tile.tile Referenced by tile
+[2016.11.11-22.25.54:859][306]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/tiles/tile' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/tiles/tile.uasset.
+[2016.11.11-22.25.54:860][306]LoadErrors:Error: Error /Game/topdown/tiles/tile : Can't find file for asset. /Game/topdown/tiles/tiles/tile
+[2016.11.11-22.25.54:860][306]LogLinker:Warning: Can't find file '/Game/topdown/tiles/tiles/tile'
+[2016.11.11-22.25.54:860][306]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/tiles/tile' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/tiles/tile.uasset.
+[2016.11.11-22.25.54:860][306]LogTextFormatter:Warning: Failed to parse argument "ImportClass" as a number (using "0" as a fallback). Please check your format string for errors: ": Failed import for {ImportClass}".
+[2016.11.11-22.25.56:917][306]LoadErrors:Error: Error /Game/topdown/tiles/test : Failed import for Material /Game/topdown/TopDown/tiles/test.test [redirection] in /Game/topdown/tiles/test
+[2016.11.11-22.25.56:917][306]LoadErrors:Error: Error /Game/topdown/tiles/test2 : Failed import for Material /Game/topdown/TopDown/tiles/test2.test2 [redirection] in /Game/topdown/tiles/test2
+[2016.11.11-22.25.56:917][306]LoadErrors:Error: Error /Game/topdown/tiles/tile : Failed import for StaticMesh /Game/topdown/TopDown/tiles/tile.tile [redirection] in /Game/topdown/tiles/tile
+[2016.11.11-22.26.13:229][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/derpythegremlin'
+[2016.11.11-22.26.13:229][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/derpythegremlin' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/derpythegremlin.uasset.
+[2016.11.11-22.26.13:229][253]LoadErrors:Error: Error /Game/topdown/TopDown/derpythegremlin : Can't find file for asset. /Game/topdown/tiles/derpythegremlin
+[2016.11.11-22.26.13:229][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/derpythegremlin'
+[2016.11.11-22.26.13:229][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/derpythegremlin' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/derpythegremlin.uasset.
+[2016.11.11-22.26.13:229][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/derpythegremlin'
+[2016.11.11-22.26.13:229][253]LoadErrors: Info Failed to load /Game/topdown/tiles/derpythegremlin.derpythegremlin Referenced by derpythegremlin
+[2016.11.11-22.26.13:229][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/derpythegremlin' while loading NULL.
+[2016.11.11-22.26.13:230][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/derpythegremlin__2_'
+[2016.11.11-22.26.13:230][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/derpythegremlin__2_' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/derpythegremlin__2_.uasset.
+[2016.11.11-22.26.13:230][253]LoadErrors:Error: Error /Game/topdown/TopDown/derpythegremlin__2_ : Can't find file for asset. /Game/topdown/tiles/derpythegremlin__2_
+[2016.11.11-22.26.13:230][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/derpythegremlin__2_'
+[2016.11.11-22.26.13:230][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/derpythegremlin__2_' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/derpythegremlin__2_.uasset.
+[2016.11.11-22.26.13:230][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/derpythegremlin__2_'
+[2016.11.11-22.26.13:230][253]LoadErrors: Info Failed to load /Game/topdown/tiles/derpythegremlin__2_.derpythegremlin__2_ Referenced by derpythegremlin__2_
+[2016.11.11-22.26.13:230][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/derpythegremlin__2_' while loading NULL.
+[2016.11.11-22.26.13:231][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/derpythegremlin__2__Sprite'
+[2016.11.11-22.26.13:231][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/derpythegremlin__2__Sprite' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/derpythegremlin__2__Sprite.uasset.
+[2016.11.11-22.26.13:231][253]LoadErrors:Error: Error /Game/topdown/TopDown/derpythegremlin__2__Sprite : Can't find file for asset. /Game/topdown/tiles/derpythegremlin__2__Sprite
+[2016.11.11-22.26.13:231][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/derpythegremlin__2__Sprite'
+[2016.11.11-22.26.13:231][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/derpythegremlin__2__Sprite' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/derpythegremlin__2__Sprite.uasset.
+[2016.11.11-22.26.13:231][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/derpythegremlin__2__Sprite'
+[2016.11.11-22.26.13:231][253]LoadErrors: Info Failed to load /Game/topdown/tiles/derpythegremlin__2__Sprite.derpythegremlin__2__Sprite Referenced by derpythegremlin__2__Sprite
+[2016.11.11-22.26.13:231][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/derpythegremlin__2__Sprite' while loading NULL.
+[2016.11.11-22.26.13:232][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/Idle'
+[2016.11.11-22.26.13:232][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/Idle' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/Idle.uasset.
+[2016.11.11-22.26.13:232][253]LoadErrors:Error: Error /Game/topdown/TopDown/Idle : Can't find file for asset. /Game/topdown/tiles/Idle
+[2016.11.11-22.26.13:232][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/Idle'
+[2016.11.11-22.26.13:232][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/Idle' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/Idle.uasset.
+[2016.11.11-22.26.13:233][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/Idle'
+[2016.11.11-22.26.13:233][253]LoadErrors: Info Failed to load /Game/topdown/tiles/Idle.Idle Referenced by Idle
+[2016.11.11-22.26.13:233][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/Idle' while loading NULL.
+[2016.11.11-22.26.13:233][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/lol'
+[2016.11.11-22.26.13:233][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/lol' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/lol.uasset.
+[2016.11.11-22.26.13:233][253]LoadErrors:Error: Error /Game/topdown/TopDown/lol : Can't find file for asset. /Game/topdown/tiles/lol
+[2016.11.11-22.26.13:233][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/lol'
+[2016.11.11-22.26.13:233][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/lol' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/lol.uasset.
+[2016.11.11-22.26.13:234][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/lol'
+[2016.11.11-22.26.13:234][253]LoadErrors: Info Failed to load /Game/topdown/tiles/lol.lol Referenced by lol
+[2016.11.11-22.26.13:234][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/lol' while loading NULL.
+[2016.11.11-22.26.13:234][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/run'
+[2016.11.11-22.26.13:234][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/run' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/run.uasset.
+[2016.11.11-22.26.13:234][253]LoadErrors:Error: Error /Game/topdown/TopDown/run : Can't find file for asset. /Game/topdown/tiles/run
+[2016.11.11-22.26.13:234][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/run'
+[2016.11.11-22.26.13:234][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/run' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/run.uasset.
+[2016.11.11-22.26.13:235][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/run'
+[2016.11.11-22.26.13:235][253]LoadErrors: Info Failed to load /Game/topdown/tiles/run.run Referenced by run
+[2016.11.11-22.26.13:235][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/run' while loading NULL.
+[2016.11.11-22.26.13:235][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/SoldierSprites'
+[2016.11.11-22.26.13:235][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/SoldierSprites' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/SoldierSprites.uasset.
+[2016.11.11-22.26.13:235][253]LoadErrors:Error: Error /Game/topdown/TopDown/SoldierSprites : Can't find file for asset. /Game/topdown/tiles/SoldierSprites
+[2016.11.11-22.26.13:235][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/SoldierSprites'
+[2016.11.11-22.26.13:236][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/SoldierSprites' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/SoldierSprites.uasset.
+[2016.11.11-22.26.13:236][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/SoldierSprites'
+[2016.11.11-22.26.13:236][253]LoadErrors: Info Failed to load /Game/topdown/tiles/SoldierSprites.SoldierSprites Referenced by SoldierSprites
+[2016.11.11-22.26.13:236][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/SoldierSprites' while loading NULL.
+[2016.11.11-22.26.13:236][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/walk'
+[2016.11.11-22.26.13:236][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/walk' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/walk.uasset.
+[2016.11.11-22.26.13:236][253]LoadErrors:Error: Error /Game/topdown/TopDown/walk : Can't find file for asset. /Game/topdown/tiles/walk
+[2016.11.11-22.26.13:237][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/walk'
+[2016.11.11-22.26.13:237][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/walk' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/walk.uasset.
+[2016.11.11-22.26.13:237][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/walk'
+[2016.11.11-22.26.13:237][253]LoadErrors: Info Failed to load /Game/topdown/tiles/walk.walk Referenced by walk
+[2016.11.11-22.26.13:237][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/walk' while loading NULL.
+[2016.11.11-22.26.13:237][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/Textures/SoldierSprites'
+[2016.11.11-22.26.13:237][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/Textures/SoldierSprites' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/Textures/SoldierSprites.uasset.
+[2016.11.11-22.26.13:237][253]LoadErrors:Error: Error /Game/topdown/TopDown/Textures/SoldierSprites : Can't find file for asset. /Game/topdown/tiles/Textures/SoldierSprites
+[2016.11.11-22.26.13:238][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/Textures/SoldierSprites'
+[2016.11.11-22.26.13:238][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/Textures/SoldierSprites' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/TopDown/Textures/SoldierSprites.uasset.
+[2016.11.11-22.26.13:238][253]LogLinker:Warning: Can't find file '/Game/topdown/tiles/Textures/SoldierSprites'
+[2016.11.11-22.26.13:238][253]LoadErrors: Info Failed to load /Game/topdown/tiles/Textures/SoldierSprites.SoldierSprites Referenced by SoldierSprites
+[2016.11.11-22.26.13:238][253]LogLinker:Warning: Can't find file for asset '/Game/topdown/tiles/Textures/SoldierSprites' while loading NULL.
+[2016.11.11-22.26.35:627][207]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AS_Aimed' or package '/Game/topdown/Blueprints/Enemy/enemy'.
+[2016.11.11-22.26.35:627][207]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AS_Aimed' or package '/Game/Blueprints/TopDownCharacter'.
+[2016.11.11-22.26.37:158][299]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AS_normal' or package '/Game/topdown/Blueprints/Enemy/enemy'.
+[2016.11.11-22.26.37:158][299]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimationState' or package '/Game/topdown/Blueprints/Enemy/enemy'.
+[2016.11.11-22.26.37:158][299]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AS_normal' or package '/Game/Blueprints/TopDownCharacter'.
+[2016.11.11-22.26.37:158][299]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimationState' or package '/Game/Blueprints/TopDownCharacter'.
+[2016.11.11-22.26.56:128][445]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_ThirdPersonGameMode_C_47' or package '/Engine/Transient'.
+[2016.11.11-22.26.56:128][445]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_ThirdPersonGameMode_C_0' or package '/Engine/Transient'.
+[2016.11.11-22.26.56:132][445]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_ThirdPersonGameMode_C_1' or package '/Engine/Transient'.
+[2016.11.11-22.26.56:132][445]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_ThirdPersonGameMode_C_48' or package '/Engine/Transient'.
+[2016.11.11-22.27.00:658][972]LogLinker:Warning: Can't find file '/Game/topdown/Blueprints/ThirdPersonGameMode'
+[2016.11.11-22.27.00:658][972]LogLinker:Warning: Can't find file for asset '/Game/topdown/Blueprints/ThirdPersonGameMode' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset.
+[2016.11.11-22.27.00:658][972]LoadErrors:Error: Error /Game/Blueprints/TopDownCharacter : Can't find file for asset. /Game/topdown/Blueprints/ThirdPersonGameMode
+[2016.11.11-22.27.00:669][972]LogLinker:Warning: Can't find file '/Game/topdown/AS_Aimed'
+[2016.11.11-22.27.00:669][972]LogLinker:Warning: Can't find file for asset '/Game/topdown/AS_Aimed' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset.
+[2016.11.11-22.27.00:669][972]LoadErrors:Error: Error /Game/Blueprints/TopDownCharacter : Can't find file for asset. /Game/topdown/AS_Aimed
+[2016.11.11-22.27.00:669][972]LogLinker:Warning: Can't find file '/Game/topdown/AS_Normal'
+[2016.11.11-22.27.00:669][972]LogLinker:Warning: Can't find file for asset '/Game/topdown/AS_Normal' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset.
+[2016.11.11-22.27.00:670][972]LoadErrors:Error: Error /Game/Blueprints/TopDownCharacter : Can't find file for asset. /Game/topdown/AS_Normal
+[2016.11.11-22.27.00:670][972]LogLinker:Warning: Can't find file '/Game/topdown/Blueprints/ThirdPersonGameMode'
+[2016.11.11-22.27.00:670][972]LogLinker:Warning: Can't find file for asset '/Game/topdown/Blueprints/ThirdPersonGameMode' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset.
+[2016.11.11-22.27.00:670][972]LogLinker:Warning: Can't find file '/Game/topdown/AS_Aimed'
+[2016.11.11-22.27.00:670][972]LogLinker:Warning: Can't find file for asset '/Game/topdown/AS_Aimed' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset.
+[2016.11.11-22.27.00:671][972]LogLinker:Warning: Can't find file '/Game/topdown/AS_Normal'
+[2016.11.11-22.27.00:671][972]LogLinker:Warning: Can't find file for asset '/Game/topdown/AS_Normal' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset.
+[2016.11.11-22.27.00:676][972]LogLinker:Warning: Can't find file '/Game/topdown/AS_Aimed'
+[2016.11.11-22.27.00:676][972]LogLinker:Warning: Can't find file for asset '/Game/topdown/AS_Aimed' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset.
+[2016.11.11-22.27.00:676][972]LoadErrors:Error: Error /Game/topdown/Blueprints/Enemy/enemy : Can't find file for asset. /Game/topdown/AS_Aimed
+[2016.11.11-22.27.00:676][972]LogLinker:Warning: Can't find file '/Game/topdown/AS_Normal'
+[2016.11.11-22.27.00:676][972]LogLinker:Warning: Can't find file for asset '/Game/topdown/AS_Normal' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset.
+[2016.11.11-22.27.00:676][972]LoadErrors:Error: Error /Game/topdown/Blueprints/Enemy/enemy : Can't find file for asset. /Game/topdown/AS_Normal
+[2016.11.11-22.27.00:677][972]LogLinker:Warning: Can't find file '/Game/topdown/AS_Aimed'
+[2016.11.11-22.27.00:677][972]LogLinker:Warning: Can't find file for asset '/Game/topdown/AS_Aimed' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset.
+[2016.11.11-22.27.00:677][972]LogLinker:Warning: Can't find file '/Game/topdown/AS_Normal'
+[2016.11.11-22.27.00:677][972]LogLinker:Warning: Can't find file for asset '/Game/topdown/AS_Normal' while loading ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset.
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.Aihealth_C' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.Aihealth:EventGraph.K2Node_Event_0' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.Aihealth:EventGraph.K2Node_Event_1' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.Aihealth_C:ExecuteUbergraph_Aihealth' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.Aihealth:GetPercent_0.K2Node_FunctionResult_0' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.Aihealth:GetPercent_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.Aihealth_C:Construct' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.Aihealth_C:ProgressBar_50' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.Aihealth_C:Health' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.Aihealth_C:Character' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.SKEL_Aihealth_C:Character' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.SKEL_Aihealth_C:Health' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.SKEL_Aihealth_C:ProgressBar_50' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.SKEL_Aihealth_C:Construct' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.SKEL_Aihealth_C:ExecuteUbergraph_Aihealth' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:696][972]LogMetaData: Removing '/Game/Blueprints/Ui/Aihealth.SKEL_Aihealth_C' ref from Metadata '/Game/topdown/Blueprints/Aihealth.PackageMetaData'
+[2016.11.11-22.27.00:713][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ui/Aihealth" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/Ui/Aihealth.uasset" SILENT=true
+[2016.11.11-22.27.00:726][972]LogSavePackage: Save=10.66ms
+[2016.11.11-22.27.00:726][972]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/AihealthF5747C1C40ECCDCADE60DE83D42DEA9F.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/Ui/Aihealth.uasset'
+[2016.11.11-22.27.00:734][972]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/Ui/Aihealth.uasset
+[2016.11.11-22.27.00:824][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/topdown/Blueprints/Enemy/enemy" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset" SILENT=true
+[2016.11.11-22.27.00:878][972]LogSavePackage: Save=47.51ms
+[2016.11.11-22.27.00:878][972]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/enemy5C695A5C4B06B1813B1F019DCF88CEF9.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset'
+[2016.11.11-22.27.00:887][972]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/topdown/Blueprints/Enemy/enemy.uasset
+[2016.11.11-22.27.27:793][176]LogMetaData: Removing '/Game/Blueprints/ai/BotAi.BotAi_C' ref from Metadata '/Game/topdown/Blueprints/Enemy/BotAi.PackageMetaData'
+[2016.11.11-22.27.27:793][176]LogMetaData: Removing '/Game/Blueprints/ai/BotAi.BotAi:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/topdown/Blueprints/Enemy/BotAi.PackageMetaData'
+[2016.11.11-22.27.27:793][176]LogMetaData: Removing '/Game/Blueprints/ai/BotAi.BotAi_C:ExecuteUbergraph_BotAi' ref from Metadata '/Game/topdown/Blueprints/Enemy/BotAi.PackageMetaData'
+[2016.11.11-22.27.27:793][176]LogMetaData: Removing '/Game/Blueprints/ai/BotAi.BotAi_C:UserConstructionScript' ref from Metadata '/Game/topdown/Blueprints/Enemy/BotAi.PackageMetaData'
+[2016.11.11-22.27.27:793][176]LogMetaData: Removing '/Game/Blueprints/ai/BotAi.BotAi_C:ReceiveBeginPlay' ref from Metadata '/Game/topdown/Blueprints/Enemy/BotAi.PackageMetaData'
+[2016.11.11-22.27.27:793][176]LogMetaData: Removing '/Game/Blueprints/ai/BotAi.BotAi_C:ReceiveTick' ref from Metadata '/Game/topdown/Blueprints/Enemy/BotAi.PackageMetaData'
+[2016.11.11-22.27.27:793][176]LogMetaData: Removing '/Game/Blueprints/ai/BotAi.SKEL_BotAi_C:ReceiveTick' ref from Metadata '/Game/topdown/Blueprints/Enemy/BotAi.PackageMetaData'
+[2016.11.11-22.27.27:793][176]LogMetaData: Removing '/Game/Blueprints/ai/BotAi.SKEL_BotAi_C:ReceiveBeginPlay' ref from Metadata '/Game/topdown/Blueprints/Enemy/BotAi.PackageMetaData'
+[2016.11.11-22.27.27:793][176]LogMetaData: Removing '/Game/Blueprints/ai/BotAi.SKEL_BotAi_C:UserConstructionScript' ref from Metadata '/Game/topdown/Blueprints/Enemy/BotAi.PackageMetaData'
+[2016.11.11-22.27.27:793][176]LogMetaData: Removing '/Game/Blueprints/ai/BotAi.SKEL_BotAi_C:ExecuteUbergraph_BotAi' ref from Metadata '/Game/topdown/Blueprints/Enemy/BotAi.PackageMetaData'
+[2016.11.11-22.27.27:793][176]LogMetaData: Removing '/Game/Blueprints/ai/BotAi.SKEL_BotAi_C' ref from Metadata '/Game/topdown/Blueprints/Enemy/BotAi.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy:uanim.K2Node_FunctionEntry_220' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy:anim.K2Node_FunctionEntry_256' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy:EnemyFound.K2Node_FunctionEntry_152' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:BndEvt__CapsuleComponent_K2Node_ComponentBoundEvent_1_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:BndEvt__Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:ExecuteUbergraph_enemy' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:UserConstructionScript' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:Box' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:PawnSensing' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:Widget' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:isMoving?' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:IdleFlipbook' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:runFlipbook' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:AnimationState' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:Fuzzybullet' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:WalkSpeed' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:RunSpeed' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:walkFlipbok' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:IsSprinting' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:CurrentSpeed' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:AS_normal' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:AS_Aimed' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:Isaiming' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:isleftdown' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:BaseHealth' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:EnemyFound' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:NewVar_0' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:playerrespawn' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:cast fromtodwn' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:NewVar_1' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:Mainplayerhud' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.enemy_C:add score' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:add score' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:Mainplayerhud' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:NewVar_1' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:cast fromtodwn' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:playerrespawn' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:NewVar_0' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:EnemyFound' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:BaseHealth' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:isleftdown' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:Isaiming' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:AS_Aimed' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:AS_normal' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:CurrentSpeed' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:IsSprinting' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:walkFlipbok' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:RunSpeed' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:WalkSpeed' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:Fuzzybullet' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:AnimationState' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:runFlipbook' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:IdleFlipbook' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:isMoving?' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:Widget' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:PawnSensing' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:Box' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:UserConstructionScript' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:ExecuteUbergraph_enemy' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:BndEvt__Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C:BndEvt__CapsuleComponent_K2Node_ComponentBoundEvent_1_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:799][176]LogMetaData: Removing '/Game/Blueprints/ai/enemy.SKEL_enemy_C' ref from Metadata '/Game/topdown/Blueprints/Enemy/enemy.PackageMetaData'
+[2016.11.11-22.27.27:833][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ai/BotAi" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/ai/BotAi.uasset" SILENT=true
+[2016.11.11-22.27.27:843][176]LogSavePackage: Save=7.53ms
+[2016.11.11-22.27.27:843][176]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/BotAi5AAE704F401B5454BDFDD898CAB18953.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/ai/BotAi.uasset'
+[2016.11.11-22.27.27:850][176]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/ai/BotAi.uasset
+[2016.11.11-22.27.27:853][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ai/enemy" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/ai/enemy.uasset" SILENT=true
+[2016.11.11-22.27.27:906][176]LogSavePackage: Save=49.19ms
+[2016.11.11-22.27.27:906][176]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/enemyCC97348B47960C9DB05CDDAE345EDADC.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/ai/enemy.uasset'
+[2016.11.11-22.27.27:913][176]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/ai/enemy.uasset
+[2016.11.11-22.27.27:916][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ai/EnemyBlackboard" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/ai/EnemyBlackboard.uasset" SILENT=true
+[2016.11.11-22.27.27:921][176]LogSavePackage: Save=2.74ms
+[2016.11.11-22.27.27:921][176]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/EnemyBlackboard71EC861A42B2E84266AB68AFB6CE25BB.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/ai/EnemyBlackboard.uasset'
+[2016.11.11-22.27.27:929][176]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/ai/EnemyBlackboard.uasset
+[2016.11.11-22.27.27:931][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ai/EnemyBehavior" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/ai/EnemyBehavior.uasset" SILENT=true
+[2016.11.11-22.27.27:936][176]LogSavePackage: Save=2.37ms
+[2016.11.11-22.27.27:936][176]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/EnemyBehavior360FD647424215DDE8E46BAC7B85D28C.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/ai/EnemyBehavior.uasset'
+[2016.11.11-22.27.27:943][176]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/ai/EnemyBehavior.uasset
+[2016.11.11-22.27.28:141][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownCharacter" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2016.11.11-22.27.28:230][176]LogSavePackage: Save=82.07ms
+[2016.11.11-22.27.28:230][176]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/TopDownCharacterDF3115C242D526B9248829AF57DE35E7.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset'
+[2016.11.11-22.27.28:237][176]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/TopDownCharacter.uasset
+[2016.11.11-22.27.28:240][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ui/Aihealth" FILE="../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/Ui/Aihealth.uasset" SILENT=true
+[2016.11.11-22.27.28:258][176]LogSavePackage: Save=9.33ms
+[2016.11.11-22.27.28:258][176]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/AihealthBF8D53BD46F73D4F014CF29D35ECA30D.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/Ui/Aihealth.uasset'
+[2016.11.11-22.27.28:261][176]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Blueprints/Ui/Aihealth.uasset
+[2016.11.11-22.28.09:501][293]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2016.11.11-22.28.34:540][753]LogTextFormatter:Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2016.11.11-22.28.35:747][753]LogSavePackage: Save=19.32ms
+[2016.11.11-22.28.35:747][753]LogSavePackage: Moving '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Mainlevel557376B94995AEFD672EE48F560E6213.tmp' to '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Levels/Mainlevel.umap'
+[2016.11.11-22.28.35:750][753]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Levels/Mainlevel.umap
+[2016.11.11-22.28.35:780][753]LogFileHelpers: Saving map 'Mainlevel' took 0.150
+[2016.11.11-22.28.53:331][434]Cmd: QUIT_EDITOR
+[2016.11.11-22.28.53:362][434]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.11-22.28.53:388][434]LogExit: Preparing to exit.
+[2016.11.11-22.28.53:926][434]LogDirectoryWatcher: A directory notification for 'C:/Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/' was aborted.
+[2016.11.11-22.28.53:941][434]LogExit: Editor shut down
+[2016.11.11-22.28.53:941][434]LogExit: Transaction tracking system shut down
+[2016.11.11-22.28.54:051][434]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.11-22.28.54:051][434]LogExit: Object subsystem successfully closed.
+[2016.11.11-22.28.54:069][434]LogD3D11RHI: Shutdown
+[2016.11.11-22.28.54:069][434]LogD3D11RHI: CleanupD3DDevice
+[2016.11.11-22.28.54:129][434]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.11-22.28.54:143][434]LogModuleManager: Shutting down and abandoning module TextureEditor (235)
+[2016.11.11-22.28.54:143][434]LogModuleManager: Shutting down and abandoning module MaterialEditor (234)
+[2016.11.11-22.28.54:143][434]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.11.11-22.28.54:143][434]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.11.11-22.28.54:143][434]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2016.11.11-22.28.54:143][434]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2016.11.11-22.28.54:143][434]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2016.11.11-22.28.54:143][434]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2016.11.11-22.28.54:144][434]LogDirectoryWatcher: A directory notification for 'C:/Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Collections/' was aborted.
+[2016.11.11-22.28.54:144][434]LogDirectoryWatcher: A directory notification for 'C:/Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/Developers/dollon/Collections/' was aborted.
+[2016.11.11-22.28.54:144][434]LogDirectoryWatcher: A directory notification for 'C:/Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Saved/Collections/' was aborted.
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.11.11-22.28.54:144][434]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.11.11-22.28.54:145][434]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.11.11-22.28.54:655][434]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.11.11-22.28.54:656][434]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.11.11-22.28.54:656][434]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.11.11-22.28.54:656][434]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.11.11-22.28.54:656][434]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.11.11-22.28.54:656][434]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.11.11-22.28.54:656][434]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.11.11-22.28.54:656][434]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.11.11-22.28.54:709][434]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.11.11-22.28.54:709][434]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.11.11-22.28.54:709][434]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.11.11-22.28.54:709][434]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.11.11-22.28.54:709][434]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.11.11-22.28.54:709][434]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.11.11-22.28.54:709][434]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.11.11-22.28.54:709][434]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.11.11-22.28.54:709][434]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.11.11-22.28.54:710][434]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.11.11-22.28.54:939][434]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.11.11-22.28.54:940][434]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.11.11-22.28.54:941][434]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.11.11-22.28.54:941][434]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.11.11-22.28.54:942][434]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.11.11-22.28.54:942][434]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.11.11-22.28.55:042][434]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.11.11-22.28.55:143][434]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.11.11-22.28.55:144][434]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.11.11-22.28.55:144][434]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.11.11-22.28.55:144][434]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.11.11-22.28.55:144][434]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.11.11-22.28.55:144][434]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.11.11-22.28.55:144][434]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.11.11-22.28.55:144][434]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.11.11-22.28.55:144][434]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.11.11-22.28.55:146][434]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.11.11-22.28.55:146][434]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.11.11-22.28.55:146][434]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.11.11-22.28.55:146][434]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.11.11-22.28.55:146][434]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.11.11-22.28.55:146][434]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.11.11-22.28.55:146][434]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.11-22.28.55:146][434]LogDirectoryWatcher: A directory notification for '../../../../../../Users/dollon/Documents/Unreal Projects/Revolver_Rouge/Content/' was aborted.
+[2016.11.11-22.28.55:146][434]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.11-22.28.55:146][434]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.11.11-22.28.55:246][434]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.11.11-22.28.55:246][434]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.11.11-22.28.55:246][434]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.11.11-22.28.55:246][434]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.11.11-22.28.55:327][434]LogDerivedDataCache: Shutdown
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.11.11-22.28.55:327][434]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.11.11-22.28.55:328][434]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.11-22.28.55:328][434]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.11-22.28.55:328][434]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.11-22.28.55:328][434]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E59C20C-4259-CE93-D440-4F85BBA4AE34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=49b053a04be1d98eeae1e69d28ff5e91%7Cc9adf02f97d64ff09b83afed0d9c56c9%7C9aedc1bf-8fbb-45c6-87b0-2b78f4cdb3f4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.11-22.28.55:340][434]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.11-22.28.55:340][434]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.11-22.28.55:341][434]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.11-22.28.55:341][434]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.11-22.28.55:341][434]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.11-22.28.55:342][434]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.11-22.28.55:342][434]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.11-22.28.55:342][434]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.11-22.28.55:342][434]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.11-22.28.55:342][434]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.11-22.28.55:342][434]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.11-22.28.55:342][434]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.11-22.28.55:342][434]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.11-22.28.55:342][434]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.11-22.28.55:342][434]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.11-22.28.55:343][434]LogExit: Exiting.
+[2016.11.11-22.28.55:351][434]Log file closed, 11/11/16 23:28:55
