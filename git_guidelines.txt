@@ -1,0 +1,111 @@
+This document contains information on the process to follow when working with git on this repository.
+
+
+>>> Getting started
+
+	You have to set up git on your computer. github tells you how to there:
+	https://help.github.com/articles/set-up-git/
+
+	In short, once you have installed git, type this:
+		$ git config --global user.name "YOUR_NAME"
+		$ git config --global user.email "YOUR_EMAIL_ADDRESS"
+
+	Make sure YOUR_NAME is the name you are using on github, and YOUR_EMAIL_ADDRESS is the email address you are using on github!
+
+	Then type this:
+		$ git config --global push.default current
+
+	It will make creating branches simpler.
+
+	Now, you want to download the project.
+	FIRST, make sure you are in the directory you want in the console, because you're about to create a folder containing the project right where you are.
+	Then, type:
+		$ git clone https://github.com/dollon/Revolverrouge.git
+
+	You can then navigate in the project folder.
+		$ cd Revolverrouge
+
+
+		
+>>> The "master" branch
+
+	The "master" branch is the main branch of the project. It should be kept stable/contain a working version of the game at all times.
+
+	In general, you should never do development work on the "master" branch directly on your local machine.
+	Testing can be performed on the "master" branch, and if bugs are found, they can be added as issues.
+
+	You can make use of labels to sort the type of issues (bug, feature, test...)
+	
+	
+	
+>>> Organisation as a team
+
+	To keep track of the work, we are using the "Issues" tab in gitlab. There, you can find a list of tasks: Features, bugs...
+	Everytime the team agrees on an idea to be added to the game, a task must be created for it.
+	Everytime a bug is found in the game, a task must be created for it.
+	Each task can be assigned to a team member (or several).
+	When you work on the project, you should logically always be able to link a commit to a task/issue. The issues have ID numbers, and we can use them to keep track of what changes belong to which issue.
+	
+	
+	
+>>> Working on the project: create a branch!
+
+	When you intend on adding a feature or fixing a bug, create a new branch from the "master" branch. For example, if your name is Thomas, and you are working on issue #3 (Fix enemy not despawning), you can name it "Thomas_3_fixEnemyNotDespawning". In general, the clearer the name, the better it is.
+	Once it is done, you are allowed to 'break' the project on this new branch you have created: it will not impact other people's work.
+	when you have finished your work, after commiting on your local branch "Thomas_3_fixEnemyNotDespawning" and updating the repository, you should ask another developper to review your work.
+	If everything is good, a game tester should test your work and check everything is still fine. Once the game tester has validated, the branch "Thomas_3_fixEnemyNotDespawning" can be merged into the "master" branch.
+	Now, the "master" branch should still contain a working version of the game, plus your work.
+
+
+	
+	example of creating a branch and working on it:
+
+	
+		$ git checkout master
+	-> your local copy of the project switches to the master branch.
+
+	
+		$ git pull
+	-> you update your local copy of the project to the latest repository (server) version available.
+
+	
+		$ git checkout -b Thomas_3_fixEnemyNotDespawning
+	-> you create your new local branch "Thomas_3_fixEnemyNotDespawning", which contains the same files as the "master" branch right now, and you are currently on this new branch.
+
+	
+	-> you work on the project.
+
+	
+		$ git status
+	-> you take a look at the files you have modified on your branch "Thomas_3_fixEnemyNotDespawning"
+
+	
+	-> If you see new, untracked files that you want to add to the project, use:
+		$ git add myfilename
+		
+	
+		$ git commit -a -m "#3 Fixed enemy not despawning"
+	-> you are happy with including all the files you have modified, and type a message explaining what your changes do. This only "saves" your local branch, nothing has been done to the server yet.
+	-> NOTE: The #3 in the message is important: it links your commit to the issue in github!
+
+	
+	-> If you want, you can work more and repeat the process from "git status".
+
+	
+		$ git push
+	-> You now send the modifications you have commited on your branch "Thomas_3_fixEnemyNotDespawning" to the server, and the rest of the team will be able to see it.
+	-> NOTE: when pushing a new branch for the first time, if you get an error about the remove branch, you will first have to type:
+		$ git push -u
+	... if you haven't forgotten to set your configuration, by typing:
+		$ git config --global push.default current
+
+		
+	-> When you are done, you can create a Pull Request on github.
+	This will allow the rest of the team to review and test your work. Once it is accepted, your work will be merged to the "master" branch.
+	-> NOTE: if you get merge conflicts, you will have to compare the changes with the current version of "master". Don't hesitate to ask the developpers responsible for the conflicting changes.
+
+	
+	-> Once you are done with working on this branch and it has been merged to "master", you can delete it. Github suggests it in the Pull Request, once it has been completed. You can just click the button.
+		$ git branch -d Thomas_3_fixEnemyNotDespawning
+	-> You can also delete the branch on your local machine.
+	
