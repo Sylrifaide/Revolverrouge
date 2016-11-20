@@ -107,5 +107,9 @@ This document contains information on the process to follow when working with gi
 	
 	-> Once you are done with working on this branch and it has been merged to "master", you can delete it. Github suggests it in the Pull Request, once it has been completed. You can just click the button.
 	-> You can also delete the branch on your local machine:
-		$ git branch -d Thomas_3_fixEnemyNotDespawning
+		$ git branch -D Thomas_3_fixEnemyNotDespawning
+	
+	-> Don't forget to pull to get your latest "master" changes!
+		$ git pull
+		
 	
